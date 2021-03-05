@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name AutoSelectCustomes
 // @namespace Ali AlMubarak Scripts
-// @version 1.3
+// @version 1.4
 // @description This script to auto select from ListBox.
 // @include     https://*.almubasher.com.sa/NewECorporate/p/billPaymentService/addNewBillAction.menu*
 // @include     https://*.almubasher.com.sa/NewECorporate/p/billPaymentService/addNewBillAction.do*
