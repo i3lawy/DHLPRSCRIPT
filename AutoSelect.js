@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name AutoSelectCustomes
 // @namespace Ali AlMubarak Scripts | TEL +966 58 160 4111
-// @version 1.5
+// @version 1.71
 // @description This script to auto select from ListBox.
 // @include     https://*.almubasher.com.sa/NewECorporate/p/billPaymentService/addNewBillAction.menu*
 // @include     https://*.almubasher.com.sa/NewECorporate/p/billPaymentService/addNewBillAction.do*
