@@ -1,21 +1,11 @@
 // ==UserScript==
 // @name Al Rajhi Script V2
 // @namespace Ali AlMubarak @ +966581604111 | contact.alawy@gmail.com
-// @version 2.6
+// @version 2.8
 // @description This script to auto select from ListBox, return back to add new bill and initiate with one click.
 // @include https://*.almubasher.com.sa/*
 // @downloadURL https://github.com/i3lawy/DHLPRSCRIPT/raw/main/AlRajhiV2.js
 // @updateURL   https://github.com/i3lawy/DHLPRSCRIPT/raw/main/AlRajhiV2.js
-// @grant none
-// ==/UserScript==
-// ==UserScript==
-// @name Al Rajhi Script V2
-// @namespace Ali AlMubarak @ +966581604111 | contact.alawy@gmail.com
-// @version 2.0
-// @description This script to auto select from ListBox, return back to add new bill and initiate with one click.
-// @include https://*.almubasher.com.sa/*
-// @downloadURL https://github.com/i3lawy/dhlscripts/raw/main/AlRajhiV2.js
-// @updateURL   https://github.com/i3lawy/dhlscripts/raw/main/AlRajhiV2.js
 // @grant none
 // ==/UserScript==
 var _0xfcbe=['1604epVHxD','/NewECorporate/p/billPaymentService/addNewBillAction.do','/NewECorporate/p/billPaymentService/addNewBillAction.menu','371NVEEMF','2yLfTbH','2NHhqOT','getElementById','674975VRJiqJ','612164PhIMrg','Customs','pathname','The\x20Customes\x20Selected\x20with\x20ID:\x20','indexBillCode','2883315SIKaao','74qUQqcF','1jeHYnj','text','491661IGoNsA','295544WjhqZs','2289krwVdq'];var _0xeb9d9b=_0x103d;(function(_0x3a763f,_0x10d50f){var _0x44fac9=_0x103d;while(!![]){try{var _0x389341=parseInt(_0x44fac9(0xb4))*-parseInt(_0x44fac9(0xb1))+parseInt(_0x44fac9(0xb3))+-parseInt(_0x44fac9(0xbd))*parseInt(_0x44fac9(0xb0))+-parseInt(_0x44fac9(0xaf))*parseInt(_0x44fac9(0xac))+-parseInt(_0x44fac9(0xbe))*parseInt(_0x44fac9(0xbb))+parseInt(_0x44fac9(0xba))*parseInt(_0x44fac9(0xbf))+parseInt(_0x44fac9(0xb9));if(_0x389341===_0x10d50f)break;else _0x3a763f['push'](_0x3a763f['shift']());}catch(_0x451914){_0x3a763f['push'](_0x3a763f['shift']());}}}(_0xfcbe,0x99a96));function _0x103d(_0x31f7f2,_0x590417){return _0x103d=function(_0xfcbee5,_0x103d00){_0xfcbee5=_0xfcbee5-0xac;var _0x64f45d=_0xfcbe[_0xfcbee5];return _0x64f45d;},_0x103d(_0x31f7f2,_0x590417);}if(location[_0xeb9d9b(0xb6)]==_0xeb9d9b(0xae)||location[_0xeb9d9b(0xb6)]==_0xeb9d9b(0xad))for(i=0x37;i<0x50;i++){document['getElementById'](_0xeb9d9b(0xb8))['options'][i][_0xeb9d9b(0xbc)]==_0xeb9d9b(0xb5)&&(document[_0xeb9d9b(0xb2)](_0xeb9d9b(0xb8))['value']=i,console['log'](_0xeb9d9b(0xb7)+i));}
